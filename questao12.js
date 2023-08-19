@@ -6,7 +6,7 @@ function start_spec_str(str)
         return false;
     }
     front = str.substring(0,4);
-    if (front === 'Java')
+    if (front == 'Java')
     {
         return true;
     }
