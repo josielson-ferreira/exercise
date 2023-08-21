@@ -13,3 +13,8 @@
 11. Escreva um programa JavaScript para verificar dois números inteiros fornecidos se um é positivo e outro é negativo.
 12. Escreva um programa JavaScript para criar outra string adicionando "Py" na frente de uma determinada string. Se a string fornecida começar com "Py", retorne a string original.
 13. Escreva um programa JavaScript para remover um caractere na posição especificada em uma determinada string e retornar a string modificada.
+14. //Escreva um programa JavaScript para verificar se três valores inteiros fornecidos estão no intervalo 50..99 (inclusive). Retorna verdadeiro se um ou mais deles estiverem no intervalo especificado.
+15. Escreva um programa JavaScript para encontrar o maior de três inteiros dados.
+16. Encontre o número máximo em uma matriz de números.
+17. Imprima os 10 primeiros números de Fibonacci sem recursão.
+18. Criar uma função que retornará um booleano especificando se um número é primo.
